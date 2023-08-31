@@ -19,7 +19,7 @@ const AboutUsPage = () => {
           </div>
           <div className="md:w-1/2 mt-3 mr-10 ">
             <h4
-              className={`flex justify-center text-5xl text-bold mb-5 sm:mt-5 mt-3 ${
+              className={`flex justify-center text-5xl text-bold mb-5 sm:mt-5 mt-10 ${
                 fadeIn ? "fade-in" : ""
               }`}
             >
