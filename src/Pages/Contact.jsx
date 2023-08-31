@@ -29,7 +29,7 @@ const Contact = () => {
 
   const handleMapClick = () => {
     window.open(
-      "https://www.google.com/maps/place/khasra+number+28,+kuri+bhagtasni,+jodhpur"
+      "https://www.google.com/maps/search/khasra+number+28+kuri+bhagtasni+jodhpur/@26.2079571,73.0224723,15z/data=!3m1!4b1?entry=ttu"
     );
   };
 
