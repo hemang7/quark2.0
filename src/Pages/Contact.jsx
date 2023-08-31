@@ -29,7 +29,7 @@ const Contact = () => {
 
   const handleMapClick = () => {
     window.open(
-      "https://www.google.com/maps/place/C-102+Sahajanand+Sarjan,+Near+Shikshapatri+Circle,+Sargasan,+Gandhinagar,+Gujarat+382421"
+      "https://www.google.com/maps/place/khasra+number+28,+kuri+bhagtasni,+jodhpur"
     );
   };
 
@@ -204,11 +204,11 @@ const Contact = () => {
                 icon={faMapMarkerAlt}
                 className="inline text-white mr-2"
               />
-              A-123, Random Address
+              8, Khasra No. 28
               <br />
-              Random Address 2, Random,
+              Kuri Bhagtasni, Jodhpur
               <br />
-              Gandhinagar. Gujarat. India 382421
+              Rajasthan, India 342013
             </p>
             <p
               className="text-white py-2 cursor-pointer hover:text-pink-500"
