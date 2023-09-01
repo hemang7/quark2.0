@@ -29,7 +29,7 @@ const AboutUsPage = () => {
 
             <div className={`fade-in ${fadeIn ? "fade-in-delayed" : ""}`}>
               <p className="text-lg mt-8">
-                At Quark Consultancy Services, we are dedicated to providing
+                At Quark Characterisation Services, we are dedicated to providing
                 innovative solutions and delivering excellence to our clients.
                 With years of experience in the industry, our team of highly
                 skilled professionals is committed to helping businesses thrive
