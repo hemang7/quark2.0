@@ -72,7 +72,7 @@ const Footer = () => {
       </div>
       <div className="border-t border-gray-500 py-1 flex text-xs sm:text-sm justify-between items-center">
         <div className="text-gray-400 mx-auto">
-          &copy; {currentYear} Quark Consultancy Services. All rights reserved
+          &copy; {currentYear} Quark Characterisation Services. All rights reserved
         </div>
         <button
           className="bg-blue-700 mt-4 mr-4 mb-2 hover:bg-blue-500 rounded-full p-1 sm:p-2 focus:outline-none"
