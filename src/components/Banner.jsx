@@ -40,7 +40,7 @@ const Banner = () => {
             fadeIn ? "fade-in" : ""
           }`}
         >
-          <h1 className="font-bold">Quark Consultancy Services</h1>
+          <h1 className="font-bold">Quark Characterisation Services</h1>
           <p className="text-xl mt-4">
             We specialize in innovative research and development.
           </p>
