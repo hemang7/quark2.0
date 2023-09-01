@@ -33,7 +33,7 @@ const Navbar = () => {
             <img
               src={Logo}
               alt="logo"
-              className="cursor-pointer sm:h-10 h-6 mt-1"
+              className="cursor-pointer sm:h-10 h-6 mt-3"
             />
           </Link>
           <div
