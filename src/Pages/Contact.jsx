@@ -228,7 +228,7 @@ const Contact = () => {
                 icon={faPhone}
                 className="inline text-white mr-2"
               />
-              (+91) 123456789
+              (+91) 7878308980
             </p>
           </div>
         </div>
