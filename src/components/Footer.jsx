@@ -41,19 +41,12 @@ const Footer = () => {
               <h2 className="text-2xl font-bold mb-4">Reach out</h2>
               <p
                 className="mb-2 cursor-pointer hover:text-pink-400"
-                onClick={() => handlePhoneClick("+91 123456789")}
+                onClick={() => handlePhoneClick("+91 7878308980")}
               >
                 <FontAwesomeIcon icon={faPhone} className="mr-2  " />
-                (+91) 123456789
+                (+91) 7878308980
               </p>
-              <p
-                className="mb-2 cursor-pointer hover:text-pink-400"
-                onClick={() => handlePhoneClick("+91 123456789")}
-              >
-                <FontAwesomeIcon icon={faPhone} className="mr-2  " />
-                (+91) 123456789
-              </p>
-
+              
               <p
                 className="mb-2 cursor-pointer hover:text-pink-400"
                 onClick={handleEmailClick}
